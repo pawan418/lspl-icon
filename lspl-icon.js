@@ -28,7 +28,7 @@ function insertIcon(selector) {
 				size = classParts[2];
 			}
 		}
-		var svgURL = "https://in.longwaysoftronix.com/icons/css/lspl-icon.svg";
+		var svgURL = "https://pawan418.github.io/lspl-icon/lspl-icon.svg";
         // Fetch the SVG file from the provided URL
         fetch(svgUrl)
 		// Fetch the SVG file from the "css" folder on your server
